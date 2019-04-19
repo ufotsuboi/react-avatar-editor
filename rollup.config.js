@@ -27,5 +27,11 @@ export default {
       moduleName: 'AvatarEditor',
       sourceMap: false,
     },
+    {
+      dest: pkg.module,
+      format: 'es',
+      moduleName: 'AvatarEditor',
+      sourceMap: false,
+    },
   ],
 }
